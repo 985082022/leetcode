@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "cpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cpp-Debug-0886fc6b149ed4b67719.json",
+					"jsonFile" : "target-cpp-Debug-2778626beffd1ab5370f.json",
 					"name" : "cpp",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/cpp/cmake-build-debug",
-		"source" : "D:/cpp"
+		"build" : "D:/github/leetcode/cpp/cmake-build-debug",
+		"source" : "D:/github/leetcode/cpp"
 	},
 	"version" : 
 	{

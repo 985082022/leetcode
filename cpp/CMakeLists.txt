@@ -3,4 +3,11 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cpp main.cpp)
+include_directories(.)
+
+add_executable(cpp
+        main.cpp
+        func.h
+        array/search.cpp
+        List/list.cpp
+)
